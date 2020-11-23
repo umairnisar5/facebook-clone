@@ -1,18 +1,18 @@
 
 import React from "react";
-// import {
-//   FaFacebook,
-//   FaSistrix,
-//   FaHome,
-//   FaFontAwesomeFlag,
-//   FaVideo,
-//   FaUsers,
-//   FaGamepad,
-//   FaPlus,
-//   FaFacebookMessenger,
-//   FaBell,
-//   FaCaretDown,
-// } from "react-icons/fa";
+import {
+  FaFacebook,
+  FaSistrix,
+  FaHome,
+  FaFontAwesomeFlag,
+  FaVideo,
+  FaUsers,
+  FaGamepad,
+  FaPlus,
+  FaFacebookMessenger,
+  FaBell,
+  FaCaretDown,
+} from "react-icons/fa";
 const Navbar = () => {
   return (
     <div className="navbar">

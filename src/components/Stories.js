@@ -2,10 +2,10 @@ import React from "react";
 
 const Stories = () => {
   const [state, setState] = React.useState([
-    { id: 1, image: "/images/umair1.jpg", name: "Flutter Development" },
-    { id: 2, image: "/images/umair2.jpg", name: "PHP Development" },
-    { id: 3, image: "/images/umair3.jpg", name: "React Native Development" },
-    { id: 4, image: "/images/talha1.jpg", name: "Node JS Development" },
+    { id: 1, image: "/images/umair1.jpg", name: "React Development" },
+    { id: 2, image: "/images/talha2.jpg", name: "JAVA Development" },
+    { id: 3, image: "/images/hamza1.jpg", name: "React Native Development" },
+    { id: 4, image: "/images/amir.jpg", name: "Block Chain" },
   ]);
   return (
     <div className="stories">

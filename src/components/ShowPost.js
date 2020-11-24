@@ -31,8 +31,8 @@ const ShowPost = () => {
     },
     {
       id: 4,
-      userImg: "/images/dawood.jpg",
-      name: "Dawood ",
+      userImg: "/images/mohsin.jpg",
+      name: "Mohsin Virq ",
       time: "2h",
       text:
         "Let there be no doubt anywhere that we know how to defend our country and will continue to do so with our combined national resolve",

@@ -10,8 +10,8 @@ const ChatBar = (props) => {
     { id: 6, image: "/images/hamza1.jpg", name: "Rahim Khan" },
     { id: 6, image: "/images/talha2.jpg", name: "Imran Khan" },
     { id: 7, image: "/images/profile.jpg", name: "Saeed Khan" },
-    { id: 8, image: "/images/fawad1.jpg", name: "Bilal Khan" },
-    { id: 9, image: "/images/fawad2.jpg", name: "Umer Khan" },
+    { id: 8, image: "/images/imrankhan1.jpg", name: "Bilal Khan" },
+    { id: 9, image: "/images/imrankhan2.jpg", name: "Umer Khan" },
     { id: 10, image: "/images/fawad3.jpg", name: "Usman Khan" },
   ]);
   const openChat = (user) => {

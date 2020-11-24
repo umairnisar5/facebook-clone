@@ -1,4 +1,5 @@
 import React from "react";
+// import React, { useState } from "react-dom";
 import { FaRegThumbsUp, FaRegCommentAlt, FaShareAlt } from "react-icons/fa";
 const ShowPost = () => {
   const [state, setState] = React.useState([

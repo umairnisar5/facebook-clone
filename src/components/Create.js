@@ -6,14 +6,14 @@ const Create = () => {
       <div className="create__first">
         <div className="create__first-img">
           <span>
-            <img src="/images/fawad1.jpg" alt="user" />
+            <img src="/images/umair1.jpg" alt="user" />
           </span>
         </div>
         <div className="create__first-input">
           <input
             type="text"
             className="create__first-inputs"
-            placeholder="Shakil what are your mind? "
+            placeholder="Umair what are your mind? "
           />
         </div>
       </div>

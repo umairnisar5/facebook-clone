@@ -1,12 +1,11 @@
 import React from "react";
-// import React, { useState } from "react-dom";
 import { FaRegThumbsUp, FaRegCommentAlt, FaShareAlt } from "react-icons/fa";
 const ShowPost = () => {
   const [state, setState] = React.useState([
     {
       id: 1,
       userImg: "/images/umair1.jpg",
-      name: "Shakil Khan",
+      name: "Umair Nisar",
       time: "2h",
       text:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nisi,\
@@ -15,8 +14,8 @@ const ShowPost = () => {
     },
     {
       id: 2,
-      userImg: "/images/umair2.jpg",
-      name: "Sajjad Khan",
+      userImg: "/images/talha1.jpg",
+      name: "Talha Bajwa",
       time: "4h",
       text:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nisi,\

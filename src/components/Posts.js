@@ -1,14 +1,14 @@
 import React from "react";
 import Stories from "./Stories";
-// import Create from "./Create";
-// import ShowPost from "./ShowPost";
+import Create from "./Create";
+import ShowPost from "./ShowPost";
 
 const Posts = () => {
   return (
     <div className="posts">
       <Stories />
-      {/* <Create />
-      <ShowPost /> */}
+      <Create />
+      <ShowPost />
     </div>
   );
 };

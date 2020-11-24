@@ -20,7 +20,7 @@ const ShowPost = () => {
       text:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nisi,\
         magnam quo illum expedita",
-      postImg: "/images/talha1.jpg",
+      postImg: "/images/imrankhan1.jpg",
     },
     {
       id: 3,
@@ -28,9 +28,8 @@ const ShowPost = () => {
       name: "Rahul",
       time: "2h",
       text:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nisi,\
-        magnam quo illum expedita",
-      postImg: "/images/imrankhan3.jpg",
+        "When we say all educational institutions will close on Nov 26 and students will home learn, we mean ALL institutions  without exception",
+      postImg: "/images/shafqat1.jpg",
     },
     {
       id: 4,
@@ -40,7 +39,7 @@ const ShowPost = () => {
       text:
         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nisi,\
         magnam quo illum expedita",
-      postImg: "/images/imrankhanpost.jpg",
+      postImg: "/images/imrankhan2.jpg",
     },
   ]);
   return (

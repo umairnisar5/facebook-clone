@@ -8,9 +8,8 @@ const ShowPost = () => {
       name: "Umair Nisar",
       time: "2h",
       text:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nisi,\
-        magnam quo illum expedita",
-      postImg: "/images/pakistan.jpg",
+        "Babar Azam-led Pakistan squad arrives in Christchurch for New Zealand series",
+      postImg: "/images/team.jpg",
     },
     {
       id: 2,
@@ -18,27 +17,25 @@ const ShowPost = () => {
       name: "Talha Bajwa",
       time: "4h",
       text:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nisi,\
-        magnam quo illum expedita",
+        "I do not want to take measures like a lockdown that will start hurting our economy which at the moment is showing signs of a robust recovery. Unfortunately, the Opposition's only goal is NRO at whatever cost to the lives of people & the country's economy.",
       postImg: "/images/imrankhan1.jpg",
     },
     {
       id: 3,
-      userImg: "/images/umair3.jpg",
-      name: "Rahul",
+      userImg: "/images/hamza1.jpg",
+      name: "Hamza",
       time: "2h",
       text:
         "When we say all educational institutions will close on Nov 26 and students will home learn, we mean ALL institutions  without exception",
-      postImg: "/images/shafqat1.jpg",
+      postImg: "/images/shafat1.jpg",
     },
     {
       id: 4,
-      userImg: "/images/umair4.jpg",
-      name: "David",
+      userImg: "/images/dawood.jpg",
+      name: "Dawood ",
       time: "2h",
       text:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nisi,\
-        magnam quo illum expedita",
+        "Let there be no doubt anywhere that we know how to defend our country and will continue to do so with our combined national resolve",
       postImg: "/images/imrankhan2.jpg",
     },
   ]);

@@ -30,6 +30,33 @@ const ShowPost = () => {
       postImg: "/images/shafat1.jpg",
     },
     {
+      id: 5,
+      userImg: "/images/umair2.jpg",
+      name: "Umair",
+      time: "2h",
+      text:
+        "Do We still need Enterprise Data Warehouse Right-pointing triangle",
+      postImg: "/images/react.jpg",
+    },
+    {
+      id: 6,
+      userImg: "/images/hamza1.jpg",
+      name: "Hamza",
+      time: "2h",
+      text:
+        "When we say all educational institutions will close on Nov 26 and students will home learn, we mean ALL institutions  without exception",
+      postImg: "/images/shafat1.jpg",
+    },
+    {
+      id: 7,
+      userImg: "/images/hamza1.jpg",
+      name: "Hamza",
+      time: "2h",
+      text:
+        "When we say all educational institutions will close on Nov 26 and students will home learn, we mean ALL institutions  without exception",
+      postImg: "/images/shafat1.jpg",
+    },
+    {
       id: 4,
       userImg: "/images/mohsin.jpg",
       name: "Mohsin Virq ",

@@ -40,30 +40,30 @@ const ShowPost = () => {
     },
     {
       id: 6,
-      userImg: "/images/hamza1.jpg",
-      name: "Hamza",
+      userImg: "/images/mohsin.jpg",
+      name: "Mohsin",
       time: "2h",
       text:
-        "When we say all educational institutions will close on Nov 26 and students will home learn, we mean ALL institutions  without exception",
-      postImg: "/images/shafat1.jpg",
+        "The flu vaccine is in short supply in Karachi",
+      postImg: "/images/flue.jpg",
     },
     {
       id: 7,
-      userImg: "/images/hamza1.jpg",
-      name: "Hamza",
+      userImg: "/images/umair4.jpg",
+      name: "Umair",
       time: "2h",
       text:
-        "When we say all educational institutions will close on Nov 26 and students will home learn, we mean ALL institutions  without exception",
-      postImg: "/images/shafat1.jpg",
+        "Coronavirus SOP violations: Two wedding halls, restaurants sealed in Rawalpindi",
+      postImg: "/images/corona.jpg",
     },
     {
-      id: 4,
-      userImg: "/images/mohsin.jpg",
-      name: "Mohsin Virq ",
+      id: 8,
+      userImg: "/images/amir.jpg",
+      name: "Amir Ali ",
       time: "2h",
       text:
-        "Let there be no doubt anywhere that we know how to defend our country and will continue to do so with our combined national resolve",
-      postImg: "/images/imrankhan2.jpg",
+        "Pakistan educational institutions to close from November 26",
+      postImg: "/images/school.jpg",
     },
   ]);
   return (
